@@ -11,5 +11,5 @@ Descrição do Desafio:
 - Escrever os resultados de volta na planilha.
 
 Requisitos:
-JDK (Java Development Kit)
-Gradle
+- JDK (Java Development Kit)
+- Gradle
