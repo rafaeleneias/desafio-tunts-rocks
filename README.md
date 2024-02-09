@@ -16,12 +16,12 @@ Requisitos:
 
 Instruções da aplicação:
 - Clone o repositório
-```git clone https://github.com/rafaeleneias/desafio-tunts-rocks.git ```
+```- git clone https://github.com/rafaeleneias/desafio-tunts-rocks.git ```
 - Navegue até a pasta do diretório:
-- cd desafio-tunts-rocks
+```- cd desafio-tunts-rocks```
 - Compile e construa o projeto:
-- gradlew build
+```- gradlew build```
 - Execute a aplicação:
-- gradlew run
+```- gradlew run```
 
-- Link da planilha: https://docs.google.com/spreadsheets/d/1aKM2F_wa7q6QSFCsHNW9bCCmf8nFrk1EJya5sAhZNIU/edit#gid=0
+```- Link da planilha: https://docs.google.com/spreadsheets/d/1aKM2F_wa7q6QSFCsHNW9bCCmf8nFrk1EJya5sAhZNIU/edit#gid=0```
