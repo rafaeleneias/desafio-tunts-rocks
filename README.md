@@ -16,7 +16,7 @@ Requisitos:
 
 Instruções da aplicação:
 - Clone o repositório
-- git clone https://github.com/rafaeleneias/desafio-tunts-rocks.git
+```git clone https://github.com/rafaeleneias/desafio-tunts-rocks.git ```
 - Navegue até a pasta do diretório:
 - cd desafio-tunts-rocks
 - Compile e construa o projeto:
